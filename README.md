@@ -1,3 +1,5 @@
+![CANDOR: copilot](https://img.shields.io/badge/䷼%20CANDOR-copilot-fee2e2?labelColor=fee2e2)
+
 ﻿# ASCII-Generator.site
 
 **This is a Django website for generating ASCII-arts out of images or text 🎨**
@@ -35,3 +37,7 @@ For creating this project, several open-source repositories were used:
 [License](LICENSE).
 
 Icons made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/).
+
+---
+
+Built with [Claude Code](https://claude.ai/code) as copilot. [CANDOR: copilot](https://candor.md) — AI writes the code, I make the decisions.
