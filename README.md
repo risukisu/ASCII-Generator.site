@@ -1,4 +1,4 @@
-![CANDOR: copilot](https://img.shields.io/badge/䷼%20CANDOR-copilot-fee2e2?labelColor=fee2e2)
+[![CANDOR: copilot](https://img.shields.io/badge/䷼%20CANDOR-copilot-fee2e2?labelColor=fee2e2)](https://github.com/DimwitLabs/CANDOR.md)
 
 ﻿# ASCII-Generator.site
 
@@ -40,4 +40,4 @@ Icons made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Per
 
 ---
 
-Built with [Claude Code](https://claude.ai/code) as copilot. [CANDOR: copilot](https://candor.md) — AI writes the code, I make the decisions.
+Built with [Claude Code](https://claude.ai/code) as copilot. [CANDOR: copilot](https://github.com/DimwitLabs/CANDOR.md) — AI writes the code, I make the decisions.
